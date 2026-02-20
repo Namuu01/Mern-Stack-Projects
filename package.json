@@ -1,0 +1,15 @@
+{
+  "name": "movies-project",
+  "version": "1.0.0",
+  "description": "this is a webpage for movies",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Namuu@01"
+  },
+  "author": "Namita V",
+  "license": "MIT"
+}
